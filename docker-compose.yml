@@ -1,0 +1,28 @@
+services:
+  api:
+    build: .
+    ports:
+      - 8000:80
+    volumes:
+      - ./app:/code/app
+      - ./alembic:/code/alembic
+      - ./alembic.ini:/code/alembic.ini
+    depends_on:
+      - "db"
+    environment:
+      DATABASE_USER: postgres
+      DATABASE_PASSWORD: you-will-never-guess
+      DATABASE_HOST: db
+      DATABASE_PORT: 5432
+      DATABASE_NAME: jobify
+  db:
+    image: postgres
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_PASSWORD: you-will-never-guess
+      POSTGRES_DB: jobify
+    volumes:
+      - db-data:/var/lib/postgresql/data
+volumes:
+  db-data:
