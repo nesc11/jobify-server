@@ -57,7 +57,17 @@ def get_current_active_user(
     return current_user
 
 
-def authenticate_admin_user(
+def check_demo_user(
+    current_user: Annotated[UserPublic, Depends(get_current_active_user)]
+):
+    if current_user.username == "demo_username":
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN, detail="Operation not allowed"
+        )
+    return current_user
+
+
+def check_admin_user(
     current_user: Annotated[UserPublic, Depends(get_current_active_user)]
 ):
     if current_user.username != "admin":

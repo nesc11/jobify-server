@@ -6,12 +6,12 @@ from sqlalchemy import select
 
 from app.models import User
 from app.schemas import UserCreate, UserPublic, UserList
-from app.dependencies import get_session, authenticate_admin_user
+from app.dependencies import get_session, check_admin_user
 from app.security import get_password_hash
 
 
 router = APIRouter(
-    prefix="/users", tags=["users"], dependencies=[Depends(authenticate_admin_user)]
+    prefix="/users", tags=["users"], dependencies=[Depends(check_admin_user)]
 )
 
 

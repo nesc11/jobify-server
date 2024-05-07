@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 from app.models import Job
 from app.schemas import JobCreate, JobPublic, JobUpdate, UserPublic, JobList
-from app.dependencies import get_session, get_current_active_user
+from app.dependencies import get_session, get_current_active_user, check_demo_user
 
 
 router = APIRouter(prefix="/jobs", tags=["jobs"])
@@ -66,7 +66,7 @@ def read_jobs(
 @router.post("/", response_model=JobPublic)
 def create_job(
     *,
-    current_user: Annotated[UserPublic, Depends(get_current_active_user)],
+    current_user: Annotated[UserPublic, Depends(check_demo_user)],
     session: Session = Depends(get_session),
     job: JobCreate,
 ):
@@ -97,7 +97,7 @@ def read_job(
 @router.patch("/{job_id}", response_model=JobPublic)
 def update_job(
     *,
-    current_user: Annotated[UserPublic, Depends(get_current_active_user)],
+    current_user: Annotated[UserPublic, Depends(check_demo_user)],
     session: Session = Depends(get_session),
     job_id: int,
     job: JobUpdate,
@@ -122,7 +122,7 @@ def update_job(
 @router.delete("/{job_id}")
 def delete_job(
     *,
-    current_user: Annotated[UserPublic, Depends(get_current_active_user)],
+    current_user: Annotated[UserPublic, Depends(check_demo_user)],
     session: Session = Depends(get_session),
     job_id: int,
 ):
