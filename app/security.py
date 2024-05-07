@@ -13,11 +13,14 @@ ALGORITHM = settings.algorithm
 
 
 def get_password_hash(password):
-    return bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt())
+    return bcrypt.hashpw(password.encode("utf-8"), bcrypt.gensalt()).decode("utf-8")
 
 
 def verify_password(plain_password, hashed_password):
-    return bcrypt.checkpw(plain_password.encode("utf-8"), hashed_password)
+    return bcrypt.checkpw(
+        password=plain_password.encode("utf-8"),
+        hashed_password=hashed_password.encode("utf-8"),
+    )
 
 
 def authenticate_user(session: Session, username: str, password: str):
