@@ -1,101 +1,101 @@
-position,company,location,job_type,job_status,user_id
-Financial Analyst,Babbleopia,Czech Republic,full-time,interview,1
-Senior Cost Accountant,Wordtune,Russia,internship,declined,1
-Software Test Engineer IV,Ailane,France,internship,interview,1
-Developer IV,Jabbercube,Sweden,full-time,declined,1
-Programmer Analyst IV,Quamba,Czech Republic,full-time,interview,1
-Chemical Engineer,Skinte,Guatemala,internship,pending,1
-Account Representative I,Browsedrive,Portugal,part-time,pending,1
-Safety Technician I,Wikivu,Serbia,part-time,pending,1
-Account Representative I,Pixope,Tajikistan,part-time,declined,1
-Programmer Analyst II,Chatterbridge,Canada,part-time,interview,1
-Structural Analysis Engineer,Zooxo,Argentina,full-time,interview,1
-Editor,Edgepulse,Portugal,part-time,declined,1
-Librarian,Gigazoom,Indonesia,full-time,declined,1
-Electrical Engineer,Eazzy,Sweden,internship,declined,1
-Environmental Specialist,Edgewire,Nepal,part-time,pending,1
-Account Representative II,Feednation,China,full-time,declined,1
-Payment Adjustment Coordinator,Yacero,Russia,full-time,interview,1
-Developer I,Gabtune,Indonesia,part-time,interview,1
-Clinical Specialist,Meevee,China,internship,pending,1
-Legal Assistant,Layo,Hungary,internship,declined,1
-Budget/Accounting Analyst I,Voonix,Indonesia,full-time,interview,1
-Professor,Voolith,South Africa,full-time,interview,1
-Research Associate,Innojam,China,internship,declined,1
-Speech Pathologist,Feedfish,Pakistan,internship,pending,1
-Statistician II,Flipbug,Japan,part-time,pending,1
-Financial Analyst,Youfeed,Russia,internship,declined,1
-Account Representative IV,Gigashots,China,full-time,pending,1
-Senior Sales Associate,Linktype,Indonesia,full-time,declined,1
-Speech Pathologist,Quinu,Ukraine,internship,interview,1
-Executive Secretary,Riffwire,Guatemala,full-time,interview,1
-Executive Secretary,Edgeclub,Japan,part-time,declined,1
-Graphic Designer,Aibox,Russia,internship,interview,1
-Senior Cost Accountant,Thoughtstorm,Dominican Republic,internship,pending,1
-Marketing Assistant,Youtags,Russia,full-time,declined,1
-Staff Accountant II,Flashpoint,China,internship,declined,1
-Computer Systems Analyst III,Zoomlounge,Indonesia,internship,interview,1
-Data Coordinator,Roomm,Czech Republic,full-time,pending,1
-Operator,Zoozzy,Poland,part-time,pending,1
-Financial Advisor,Skinte,Belarus,part-time,declined,1
-Registered Nurse,Meeveo,Japan,full-time,interview,1
-Pharmacist,Mudo,Bulgaria,full-time,interview,1
-Research Associate,Mydeo,Lithuania,internship,pending,1
-Nurse Practicioner,Quatz,Philippines,internship,declined,1
-Account Executive,Tanoodle,Bosnia and Herzegovina,full-time,interview,1
-Research Assistant I,Yacero,Poland,internship,declined,1
-Editor,Youfeed,Russia,part-time,pending,1
-Civil Engineer,Brainverse,Argentina,part-time,interview,1
-Database Administrator IV,Mudo,Mali,internship,pending,1
-General Manager,Wikivu,Panama,internship,declined,1
-Business Systems Development Analyst,Devpoint,Indonesia,part-time,declined,1
-Legal Assistant,Shufflebeat,Togo,part-time,interview,1
-Programmer Analyst III,Edgewire,Philippines,internship,declined,1
-Senior Editor,Voonyx,China,internship,interview,1
-Teacher,Meetz,Finland,internship,interview,1
-Geologist II,Babblestorm,Madagascar,part-time,declined,1
-Computer Systems Analyst II,Browsebug,Indonesia,full-time,declined,1
-Senior Cost Accountant,Trupe,China,part-time,pending,1
-Speech Pathologist,Cogibox,China,full-time,pending,1
-Software Engineer IV,Shufflebeat,Philippines,internship,pending,1
-Marketing Manager,Realfire,China,part-time,declined,1
-Administrative Assistant IV,Dabshots,Brazil,part-time,pending,1
-Professor,Flashspan,Philippines,part-time,interview,1
-Chief Design Engineer,Yozio,Portugal,internship,declined,1
-Tax Accountant,Voonte,Brazil,part-time,interview,1
-Help Desk Operator,Brightbean,Indonesia,part-time,pending,1
-Senior Developer,Quaxo,Philippines,part-time,declined,1
-Assistant Manager,Voomm,Russia,full-time,interview,1
-VP Quality Control,Jaxnation,Philippines,full-time,declined,1
-Financial Advisor,Mynte,Sweden,full-time,declined,1
-Marketing Manager,Skinder,Peru,part-time,interview,1
-Financial Analyst,Devify,China,part-time,pending,1
-GIS Technical Architect,Quimba,United States,full-time,declined,1
-Director of Sales,Wordware,Argentina,full-time,declined,1
-Accounting Assistant I,Reallinks,Indonesia,part-time,interview,1
-Physical Therapy Assistant,Jazzy,Japan,full-time,pending,1
-Senior Financial Analyst,Quinu,Philippines,full-time,interview,1
-Software Consultant,Jabbercube,Argentina,full-time,declined,1
-Computer Systems Analyst I,Feedfire,Indonesia,part-time,interview,1
-Marketing Manager,Voolia,Canada,part-time,interview,1
-Analyst Programmer,Skilith,China,internship,pending,1
-Administrative Officer,Browsetype,United States,full-time,pending,1
-Staff Scientist,Topiczoom,Uganda,full-time,pending,1
-Electrical Engineer,Mybuzz,Czech Republic,full-time,pending,1
-Senior Developer,Meedoo,Canada,full-time,interview,1
-Environmental Tech,Zoomzone,Ukraine,full-time,declined,1
-Operator,Oyoba,Bosnia and Herzegovina,full-time,pending,1
-Health Coach II,Innotype,China,internship,interview,1
-Senior Sales Associate,Katz,Honduras,internship,pending,1
-Senior Financial Analyst,Centizu,Russia,full-time,pending,1
-Senior Financial Analyst,Realbuzz,Russia,part-time,interview,1
-Actuary,Twitterwire,Kazakhstan,part-time,declined,1
-Health Coach III,Leexo,Latvia,full-time,interview,1
-Financial Advisor,Flipbug,Philippines,full-time,interview,1
-VP Marketing,Lazzy,China,internship,declined,1
-Financial Advisor,Muxo,Germany,part-time,pending,1
-Registered Nurse,Bubblebox,Morocco,part-time,pending,1
-Accounting Assistant I,Gabcube,Tanzania,part-time,declined,1
-Director of Sales,Centidel,Argentina,internship,declined,1
-Software Engineer III,Zoovu,Chile,part-time,declined,1
-Registered Nurse,Riffpedia,Thailand,full-time,declined,1
+id,position,company,location,job_type,job_status,create_date,user_id
+1,VP Product Management,Gevee,Philippines,internship,interview,10/17/2023,1
+2,Quality Control Specialist,Fivebridge,China,part-time,interview,11/18/2023,1
+3,Clinical Specialist,Oyoba,China,part-time,declined,12/4/2023,1
+4,Civil Engineer,Youspan,Indonesia,full-time,declined,9/2/2023,1
+5,Senior Quality Engineer,Einti,Yemen,part-time,pending,7/1/2023,1
+6,Information Systems Manager,Twitterlist,Czech Republic,part-time,interview,8/9/2023,1
+7,Cost Accountant,Skipfire,Japan,part-time,pending,1/21/2024,1
+8,Business Systems Development Analyst,Skaboo,Philippines,part-time,interview,1/13/2024,1
+9,Assistant Professor,Talane,Indonesia,part-time,pending,10/10/2023,1
+10,Mechanical Systems Engineer,Cogidoo,Brazil,internship,pending,8/24/2023,1
+11,Nurse,Brainsphere,Indonesia,part-time,declined,9/14/2023,1
+12,Project Manager,Photobean,United States,part-time,pending,8/4/2023,1
+13,Web Designer I,Devshare,Bulgaria,internship,pending,1/22/2024,1
+14,Developer I,Livepath,China,internship,pending,7/3/2023,1
+15,Librarian,Twitterwire,Indonesia,part-time,declined,2/14/2024,1
+16,VP Product Management,Quimm,Armenia,full-time,declined,12/29/2023,1
+17,Design Engineer,Skiptube,Mauritius,internship,interview,7/22/2023,1
+18,Web Developer IV,Wikivu,Canada,part-time,interview,3/1/2024,1
+19,Senior Developer,Cogidoo,Ukraine,part-time,interview,1/19/2024,1
+20,Sales Representative,Ntag,Philippines,part-time,pending,12/13/2023,1
+21,Nuclear Power Engineer,Flashpoint,Indonesia,full-time,pending,11/24/2023,1
+22,Office Assistant II,Realfire,Slovenia,full-time,interview,2/13/2024,1
+23,Chemical Engineer,Jetpulse,Tanzania,full-time,pending,7/5/2023,1
+24,Assistant Manager,Skiptube,Philippines,part-time,declined,8/14/2023,1
+25,Graphic Designer,Yodo,Bulgaria,internship,interview,12/12/2023,1
+26,Assistant Media Planner,Flashset,China,part-time,pending,9/9/2023,1
+27,Developer I,Myworks,Philippines,full-time,declined,8/14/2023,1
+28,Account Coordinator,Pixonyx,China,full-time,pending,4/18/2024,1
+29,Assistant Professor,Browsedrive,Malaysia,full-time,interview,11/18/2023,1
+30,Systems Administrator II,Zoomlounge,China,internship,pending,2/8/2024,1
+31,Sales Representative,Kazio,Sudan,internship,interview,9/10/2023,1
+32,Software Test Engineer I,Topicware,China,full-time,pending,7/15/2023,1
+33,Human Resources Manager,Jabbersphere,Nigeria,full-time,declined,12/1/2023,1
+34,VP Accounting,Zava,Greece,part-time,declined,11/20/2023,1
+35,Associate Professor,Vitz,Peru,full-time,pending,4/3/2024,1
+36,Engineer IV,Wikizz,China,internship,declined,10/9/2023,1
+37,Research Associate,Topiczoom,Portugal,part-time,pending,7/28/2023,1
+38,VP Product Management,Centimia,France,full-time,interview,4/5/2024,1
+39,Nuclear Power Engineer,Eadel,Cameroon,full-time,interview,5/17/2023,1
+40,Statistician I,Riffwire,China,internship,declined,11/15/2023,1
+41,Account Representative III,Divanoodle,Brazil,full-time,interview,1/10/2024,1
+42,VP Product Management,Flipbug,Nigeria,internship,declined,11/12/2023,1
+43,Senior Sales Associate,Voonte,Cameroon,part-time,interview,3/30/2024,1
+44,Quality Engineer,Jayo,Sweden,full-time,pending,2/15/2024,1
+45,Quality Engineer,Shufflebeat,Greece,part-time,interview,6/23/2023,1
+46,Senior Developer,Buzzbean,China,part-time,interview,9/12/2023,1
+47,Operator,Voonyx,Serbia,full-time,pending,8/21/2023,1
+48,Programmer III,Meezzy,Macedonia,internship,pending,3/13/2024,1
+49,Administrative Officer,Thoughtbeat,Brazil,full-time,interview,2/14/2024,1
+50,Human Resources Assistant II,Jaxworks,Russia,part-time,interview,1/28/2024,1
+51,Web Designer I,LiveZ,United States,internship,pending,4/12/2024,1
+52,Quality Engineer,Vitz,Indonesia,part-time,pending,4/26/2024,1
+53,Geological Engineer,Realpoint,Indonesia,internship,pending,5/3/2024,1
+54,Speech Pathologist,Vimbo,China,internship,pending,9/2/2023,1
+55,Staff Scientist,Kayveo,China,full-time,declined,8/5/2023,1
+56,Civil Engineer,Gigaclub,Russia,full-time,interview,9/20/2023,1
+57,Environmental Specialist,Blogtags,United States,full-time,declined,5/17/2023,1
+58,VP Sales,Innotype,Indonesia,part-time,pending,7/15/2023,1
+59,Help Desk Operator,Skyndu,Finland,internship,declined,4/18/2024,1
+60,Nurse Practicioner,Buzzdog,Kenya,part-time,declined,1/7/2024,1
+61,Pharmacist,Divape,China,internship,interview,3/4/2024,1
+62,Pharmacist,Babblestorm,Colombia,part-time,interview,3/30/2024,1
+63,Cost Accountant,Rhyloo,France,internship,pending,5/4/2024,1
+64,Mechanical Systems Engineer,Jamia,Indonesia,part-time,interview,12/1/2023,1
+65,Senior Quality Engineer,Kwimbee,China,internship,declined,12/29/2023,1
+66,Food Chemist,Wikivu,Ukraine,full-time,pending,3/22/2024,1
+67,Project Manager,Flipbug,Germany,part-time,pending,7/26/2023,1
+68,Compensation Analyst,Gabtune,China,internship,declined,3/22/2024,1
+69,Senior Developer,Twimbo,Peru,full-time,declined,4/3/2024,1
+70,VP Product Management,Edgepulse,Sweden,internship,interview,4/11/2024,1
+71,Software Engineer II,Dazzlesphere,Portugal,internship,interview,8/4/2023,1
+72,Cost Accountant,Skinder,Ukraine,part-time,pending,6/2/2023,1
+73,Compensation Analyst,Izio,Macedonia,internship,interview,9/15/2023,1
+74,Financial Advisor,Pixope,Netherlands,internship,interview,9/25/2023,1
+75,Speech Pathologist,Livetube,Colombia,internship,pending,3/7/2024,1
+76,Budget/Accounting Analyst III,Innotype,Canada,part-time,interview,10/13/2023,1
+77,Web Designer IV,Bubblebox,Tajikistan,internship,pending,7/8/2023,1
+78,Environmental Specialist,Zazio,Russia,full-time,declined,9/13/2023,1
+79,Accountant I,Divavu,Morocco,full-time,interview,8/5/2023,1
+80,Payment Adjustment Coordinator,Edgeify,Russia,part-time,interview,1/8/2024,1
+81,Data Coordinator,Zoozzy,Comoros,full-time,interview,7/26/2023,1
+82,Safety Technician I,Riffpath,France,part-time,declined,9/15/2023,1
+83,Graphic Designer,Jetpulse,China,internship,declined,1/30/2024,1
+84,Systems Administrator III,Quamba,Poland,full-time,interview,3/11/2024,1
+85,Occupational Therapist,Twimbo,United States,internship,interview,8/9/2023,1
+86,Compensation Analyst,Quaxo,China,part-time,declined,2/28/2024,1
+87,Clinical Specialist,Feedbug,Guinea-Bissau,part-time,interview,10/2/2023,1
+88,Dental Hygienist,Oodoo,Indonesia,full-time,interview,5/11/2023,1
+89,Budget/Accounting Analyst I,Gabcube,Spain,part-time,interview,5/24/2023,1
+90,Nurse,Bubblemix,Slovenia,full-time,declined,8/7/2023,1
+91,Teacher,Mydo,Malta,part-time,pending,12/16/2023,1
+92,Cost Accountant,Skipstorm,Indonesia,internship,pending,1/26/2024,1
+93,Paralegal,Jabbersphere,China,part-time,pending,9/15/2023,1
+94,Web Developer I,Digitube,Portugal,full-time,declined,10/22/2023,1
+95,Cost Accountant,Kwimbee,Nigeria,internship,pending,8/8/2023,1
+96,Pharmacist,Browsedrive,Thailand,part-time,pending,8/18/2023,1
+97,Marketing Manager,Voolith,Portugal,internship,pending,3/28/2024,1
+98,Database Administrator I,Linkbridge,France,part-time,interview,6/19/2023,1
+99,Social Worker,Trupe,Netherlands,internship,interview,3/29/2024,1
+100,Human Resources Manager,Realpoint,Poland,internship,pending,4/15/2024,1
